@@ -1,0 +1,5 @@
+# [submodule "dojo-starter"]
+#	path = dojo-starter
+#	url = https://github.com/dojoengine/dojo-starter
+
+# git submodule update --init --recursive (skipping this step to work with manual download of dojo-starter)
